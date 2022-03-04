@@ -1,0 +1,2 @@
+VM must be running to open SSH connection. Run `vagrant up`
+to start the virtual machine.~
